@@ -52,7 +52,7 @@ function Init()
 	local m = NewWebsiteModule()
 	m.ID               = '04f12fc7c4284fd987406f050711d1d7'
 	m.Name             = 'MangaDenizi'
-	m.RootURL          = 'https://www.mangadenizi.com'
+	m.RootURL          = 'https://www.mangadenizi.net'
 	m.Category         = 'Turkish'
 	m.OnGetInfo        = 'GetInfo'
 	m.OnGetNameAndLink = 'GetNameAndLink'
